@@ -2,6 +2,9 @@
 
 makecode I2C OLED 128x64 extension V2 for micro:bit. with 6x8 font, and increased display speed.  
 
+Cloned for Hoonah-Robotics class, from: 
+https://github.com/makecode-extensions/OLED12864_I2C_V2
+
 Part of the drive base on fizban99's microbit OLED driver:  
 https://github.com/fizban99/microbit_ssd1306  
 
